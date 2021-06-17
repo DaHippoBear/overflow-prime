@@ -10,6 +10,7 @@
         <module name="minilabs" />
         <module name="myconnect" />
         <module name="api" />
+        <module name="Overflow-master" />
         <module name="menu" />
       </profile>
     </annotationProcessing>
@@ -18,6 +19,7 @@
       <module name="menu" target="14" />
       <module name="minilabs" target="14" />
       <module name="myconnect" target="14" />
+      <module name="Overflow-master" target="14" />
       <module name="spring-boot-thymeleaf" target="1.8" />
       <module name="todo" target="14" />
     </bytecodeTargetLevel>
